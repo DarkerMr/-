@@ -1,0 +1,11 @@
+/*手写媒体查询,控制ifrane的宽高*/
+.my_small,.my_footer{width:100%;}
+@media screen and (min-width:992px) {
+    .my_header{height:5rem;}
+    .my_footer{height:16rem;}
+}
+@media screen and (max-width:991px) {
+    .my_header{height:11rem;}
+    .my_footer{height:30rem;}
+}
+/*轮播指示器的样式*/

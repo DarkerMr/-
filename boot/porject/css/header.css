@@ -1,7 +1,7 @@
-/*é¢åŒ…å±‘å¯¼èˆª*/
-.breadcrumb-item + .breadcrumb-item::before {
-    content: "|";
+/*Ãæ°üĞ¼µ¼º½*/
+.breadcrumb-item + .breadcrumb-item::before{
+    content:"|";
 }
 .breadcrumb{
-    background-color:transparent;
+    background-color: transparent;
 }
